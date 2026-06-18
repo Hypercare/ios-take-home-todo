@@ -28,4 +28,4 @@ Bundle the project into a zip file and email it to umar@hypercare.com (CC: shirl
 
 Please ensure when you zip the project the root of the folder has the `.xcodeproj` file.
 
-Note: If shirley@hypercare.com is not CC'd in the submission email, your assignment submission might not register in the system.
+**Note:** If shirley@hypercare.com is not CC'd in the submission email, your assignment submission might not register in the system.
