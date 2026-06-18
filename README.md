@@ -21,3 +21,9 @@ Open `TakehomeTodo.xcodeproj` in Xcode and run on any iOS Simulator.
 
 Correct async/await + decoding, sensible error handling, testability, and
 clean, readable Swift.
+
+## How to submit
+
+Bundle the project into a zip file and email it to umar@hypercare.com (CC: shirley@hypercare.com). If it exceeds the maximum email limit please upload it to Google drive or any other cloud drive and provide the link in the email.
+
+Please ensure when you zip the project the root of the folder has the `.xcodeproj` file.
