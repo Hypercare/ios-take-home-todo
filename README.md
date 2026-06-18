@@ -27,3 +27,5 @@ clean, readable Swift.
 Bundle the project into a zip file and email it to umar@hypercare.com (CC: shirley@hypercare.com). If it exceeds the maximum email limit please upload it to Google drive or any other cloud drive and provide the link in the email.
 
 Please ensure when you zip the project the root of the folder has the `.xcodeproj` file.
+
+Note: If shirley@hypercare.com is not CC'd in the submission email, your assignment submission might not register in the system.
